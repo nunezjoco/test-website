@@ -24,3 +24,8 @@ p
     width: 15%;
     background-color: yellow;
 }
+
+.big-red{
+    font-size: 50px;
+    color: crimson;
+}
