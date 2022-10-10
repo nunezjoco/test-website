@@ -1,0 +1,9 @@
+#1 make image 100% fill the screen
+
+#2 make 2 images column
+
+#3 create a paragraph and put it in the center
+
+#4 change background color to wheat(#F5DEB3)
+
+#5 create a button that is color red and has a text "Click me" 

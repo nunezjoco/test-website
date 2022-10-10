@@ -1,0 +1,26 @@
+h2
+{
+    color:red;
+    font-family: Verdana;
+}
+
+p
+{
+
+    color: chocolate;
+    font-family: 'Lucida Sans';
+}
+.btn
+{
+    color: crimson;
+    padding: 10px;
+    width: 15%;
+    background-color: violet;
+}
+.btn1
+{
+    color: coral;
+    padding: 10px;
+    width: 15%;
+    background-color: yellow;
+}
